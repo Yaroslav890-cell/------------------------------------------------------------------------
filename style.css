@@ -1,0 +1,26 @@
+.header,.footer{
+  background-color: aqua;
+}
+.nav-link{
+  color: black;
+  display: flex; 
+ justify-content: center; 
+}
+a{
+  text-decoration: none;
+}
+.nav-title{
+  display: flex;
+  justify-content: end;
+  font-size: 15px;
+}
+.h1{
+  display: flex;
+  justify-content: center;
+}
+.nav-link:hover{
+  color: rgb(226, 188, 135);
+}
+.nav-link{
+  transition: 2s;
+}
